@@ -1,5 +1,5 @@
 <img width="744" height="425" alt="DAVAH-AZUL (2)" src="https://github.com/user-attachments/assets/6974bee8-2fe1-42cd-a7bf-3f502f2e4cdf" />
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -18,7 +18,6 @@ footer{background:var(--azul);color:#fff;text-align:center;padding:40px 20px;}
 <body>
 
 <header>
-
 <h1>DAVAH INMOBILIARIA</h1>
 <p>Solidez legal, visión financiera y patrimonio sostenible</p>
 </header>
