@@ -1,10 +1,13 @@
 <img width="744" height="425" alt="DAVAH-AZUL (2)" src="https://github.com/user-attachments/assets/6974bee8-2fe1-42cd-a7bf-3f502f2e4cdf" />
-
+header img{
+  max-width:120px;
+  height:auto;
+  margin-bottom:20px;
+}
 <html lang="es">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <style>
 :root{--azul:#161e35;--gris:#c2c1c1;--grisclaro:#efefef;}
 body{margin:0;font-family:Arial, Helvetica, sans-serif;background:var(--grisclaro);color:var(--azul);line-height:1.8;}
