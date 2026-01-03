@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Davah Inmobiliaria</title>
+
 <style>
 :root{--azul:#161e35;--gris:#c2c1c1;--grisclaro:#efefef;}
 body{margin:0;font-family:Arial, Helvetica, sans-serif;background:var(--grisclaro);color:var(--azul);line-height:1.8;}
@@ -18,8 +18,6 @@ footer{background:var(--azul);color:#fff;text-align:center;padding:40px 20px;}
 <body>
 
 <header>
-<img src="logo-davah.png" alt="Davah Inmobiliaria">
-<h1>DAVAH INMOBILIARIA</h1>
 <p>Solidez legal, visión financiera y patrimonio sostenible</p>
 </header>
 
